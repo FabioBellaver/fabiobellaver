@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **fabio.bellaver658@gmail.com**
 
-- 📄 Know about my experiences [I'm searching for my first opportunity as a developer.](I'm searching for my first opportunity as a developer.)
+- 📄 Know about my experiences (I'm searching for my first opportunity as a developer).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
